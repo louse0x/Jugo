@@ -1,4 +1,3 @@
-module github.com/louse0x/Jugo
+module Jugo
 
 go 1.17
-
